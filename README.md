@@ -21,4 +21,4 @@ instance to make RTM API requests.
 ## Usage & Installation
 
 For more information on the plugin architecture installing a plugin, see the 
-[rtm-cli Wiki](github.com/dwaring87/rtm-cli/wiki).
+[rtm-cli Wiki](https://github.com/dwaring87/rtm-cli/wiki).
