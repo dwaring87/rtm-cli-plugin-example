@@ -1,0 +1,21 @@
+{
+  "name": "rtm-cli-plugin-example",
+  "version": "1.0.0",
+  "description": "RTM Plugin - Example",
+  "keywords": [
+    "rtm",
+    "rtm-cli",
+    "rtm-cli plugin",
+    "remember the milk"
+  ],
+  "main": "index.js",
+  "author": "David Waring <dev@davidwaring.net> (https://davidwaring.net)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwaring87/rtm-cli-plugin-example"
+  },
+  "peerDependencies": {
+    "rtm-cli": "^1.2.2"
+  },
+  "license": "MIT"
+}
